@@ -64,4 +64,17 @@ instructed gpt 有监督训练
 ![Alt text](image-32.png)
 
 ## 实战 
+
+跟着文档操作
 [文档](https://github.com/InternLM/tutorial/blob/main/xtuner/README.md)
+
+## 微调对比
+前:
+![Alt text](image-34.png)
+![Alt text](image-35.png)
+
+后:(无限循环这句子,internlm抽风了)
+![Alt text](image-36.png)
+## 自定义微调
+
+![Alt text](image-33.png)

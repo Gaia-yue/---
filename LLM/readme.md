@@ -8,3 +8,4 @@
 - 评估
 - 应用
 
+教程地址:https://github.com/InternLM/tutorial/blob/main/langchain/readme.md
