@@ -89,7 +89,3 @@ $$ \text{perplexity}q(x{1:L}) \le \frac{1}{1 - \epsilon} \text{perplexity}p(x{1:
 - adaptation确实效果很好,gpt在经过简单的prompt learning后效果超过了现有的sota模型
 
 
-192.168.3.118
-
-
-
